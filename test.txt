@@ -1,0 +1,140 @@
+38000
+max: 250
+enr: 281
+wl: n/a
+req: 497
+38001
+max: 290
+enr: 284
+wl: n/a
+req: 357
+38006
+max: 300
+enr: 317
+wl: n/a
+req: 419
+38026
+max: 150
+enr: 149
+wl: n/a
+req: 257
+38031
+max: 150
+enr: 146
+wl: n/a
+req: 180
+38047
+max: 30
+enr: 14
+wl: n/a
+req: 60
+38050
+max: 250
+enr: 288
+wl: n/a
+req: 429
+38052
+max: 90
+enr: 88
+wl: n/a
+req: 196
+38056
+max: 90
+enr: 90
+wl: n/a
+req: 271
+38061
+max: 250
+enr: 272
+wl: n/a
+req: 394
+38064
+max: 90
+enr: 90
+wl: n/a
+req: 218
+38066
+max: 70
+enr: 70
+wl: n/a
+req: 166
+38070
+max: 90
+enr: 90
+wl: n/a
+req: 149
+38072
+max: 70
+enr: 71
+wl: n/a
+req: 107
+38076
+max: 90
+enr: 90
+wl: n/a
+req: 154
+38077
+max: 70
+enr: 69
+wl: n/a
+req: 148
+38085
+max: 70
+enr: 81
+wl: n/a
+req: 178
+38091
+max: 30
+enr: 47
+wl: n/a
+req: 118
+38111
+max: 90
+enr: 83
+wl: n/a
+req: 113
+38113
+max: 70
+enr: 66
+wl: n/a
+req: 93
+38125
+max: 90
+enr: 83
+wl: n/a
+req: 115
+38127
+max: 70
+enr: 70
+wl: n/a
+req: 91
+38175
+max: 70
+enr: 67
+wl: n/a
+req: 119
+38195
+max: 90
+enr: 88
+wl: n/a
+req: 141
+38216
+max: 70
+enr: 69
+wl: n/a
+req: 140
+38294
+max: 20
+enr: 20
+wl: n/a
+req: 39
+38313
+max: 40
+enr: 20
+wl: n/a
+req: 81
+38382
+max: 90
+enr: 84
+wl: n/a
+req: 146
